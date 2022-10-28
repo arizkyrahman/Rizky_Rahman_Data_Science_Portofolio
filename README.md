@@ -7,4 +7,4 @@
 - Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
 - Built a client facing API using flask
 
-![](/images/salary_estimator.png)
+![](https://github.com/arizkyrahman/Rizky_Rahman_Data_Science_Portofolio/blob/main/images/salary%20estimator.png?raw=true)
