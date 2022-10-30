@@ -1,4 +1,4 @@
-# Rizky_Rahman_Data_Science_Portofolio
+# Rizky Rahman Data Science Portofolio
 
 # Project 1: [Salary Estimator](https://github.com/arizkyrahman/ds_salary_project)
 - Created a tool that estimates salaries (MAE ~ $ 11K) to help them negotiate their income when they get a job.
@@ -18,3 +18,12 @@
 
 ![](https://github.com/arizkyrahman/Rizky_Rahman_Data_Science_Portofolio/blob/main/images/corelation_matrix_house_price_predict.png?raw=true)
 ![](https://github.com/arizkyrahman/Rizky_Rahman_Data_Science_Portofolio/blob/main/images/distribution_of_saleprice_house_predict.png?raw=true)
+
+# Project 3: [Titanic Shipwreck](https://github.com/arizkyrahman/rizky_titanic_shipwreck)
+- Model that predicts which passengers survived the Titanic shipwreck.
+- Analyze, identify patterns, and explore the data.
+- Review survived rate using percentiles=[.61, .62] and Parch distribution using percentiles=[.75, .8]
+- Visualize, report, and present the problem solving steps and final solution.
+
+![](https://github.com/arizkyrahman/rizky_titanic_shipwreck/blob/main/images/dv_titanic_shipwreck.png?raw=true)
+![](https://github.com/arizkyrahman/rizky_titanic_shipwreck/blob/main/images/dv2_titanic_shipwreck.png?raw=true)
