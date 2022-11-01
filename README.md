@@ -1,5 +1,3 @@
-# Rizky Rahman Data Science Portofolio
-
 # Project 1: [Salary Estimator](https://github.com/arizkyrahman/ds_salary_project)
 - Created a tool that estimates salaries (MAE ~ $ 11K) to help them negotiate their income when they get a job.
 - Scraped over 1000 job descriptions from glassdoor using python and selenium
